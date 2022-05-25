@@ -1,6 +1,6 @@
 [[main]]
   name = "Documentation"
-  identifier = "Docs"
+  identifier = "docs"
   url = "/docs/catalog/currencies/"
   weight = 10
 
