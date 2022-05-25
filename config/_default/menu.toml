@@ -1,0 +1,10 @@
+[[main]]
+  name = "Documentation"
+  identifier = "Docs"
+  url = "/docs/catalog/currencies/"
+  weight = 10
+
+[[main]]
+  name = "Contribution"
+  url = "/contribution/site/start"
+  weight = 20
